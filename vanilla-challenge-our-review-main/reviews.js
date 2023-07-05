@@ -2,7 +2,7 @@ const users=[
      {  
         user: 1,
         names: 'Susan Smith',
-        position: "WEB DEVELOPER",
+        position: "WEB DEVELOPER and ",
         img: "./img/user1.jpeg",
         text: "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry"
     },
